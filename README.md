@@ -25,7 +25,6 @@ The dataset (`sales pizza.xlsx`) includes **499 transaction records** with detai
 ## 🛠️ Tech Stack & Tools
 
 * **Excel:** Pivot tables, custom dashboard layout, and raw data storage.
-* **Python (Optional Analysis):** `pandas` for data cleaning, `matplotlib` / `seaborn` for visualization.
 * **Markdown:** Documentation.
 
 ---
