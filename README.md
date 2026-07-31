@@ -1,10 +1,11 @@
-<img width="1823" height="587" alt="Screenshot 2026-07-31 122402" src="https://github.com/user-attachments/assets/a6a45adc-b357-42ff-9160-afaad956d3f2" />
+
 # PizzaPulse-Analytics
 # 🍕 Pizza Sales Analysis & Dashboard
 
 An end-to-end data analysis project exploring pizza restaurant sales performance, customer ordering trends, revenue distribution, and product popularity.
 
----
+<img width="1823" height="587" alt="Screenshot 2026-07-31 122402" src="https://github.com/user-attachments/assets/95bffbdc-58a8-439a-9786-e41eb371e0f1" />
+
 
 ## 📌 Project Overview
 
