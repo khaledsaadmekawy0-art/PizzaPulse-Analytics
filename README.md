@@ -1,3 +1,4 @@
+<img width="1823" height="587" alt="Screenshot 2026-07-31 122402" src="https://github.com/user-attachments/assets/a6a45adc-b357-42ff-9160-afaad956d3f2" />
 # PizzaPulse-Analytics
 # 🍕 Pizza Sales Analysis & Dashboard
 
